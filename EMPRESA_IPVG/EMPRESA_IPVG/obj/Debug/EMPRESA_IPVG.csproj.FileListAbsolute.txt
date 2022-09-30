@@ -1,0 +1,6 @@
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\EMPRESA_IPVG\obj\Debug\EMPRESA_IPVG.csproj.AssemblyReference.cache
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\EMPRESA_IPVG\obj\Debug\EMPRESA_IPVG.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\EMPRESA_IPVG\bin\Debug\EMPRESA_IPVG.dll
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\EMPRESA_IPVG\bin\Debug\EMPRESA_IPVG.pdb
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\EMPRESA_IPVG\obj\Debug\EMPRESA_IPVG.dll
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\EMPRESA_IPVG\obj\Debug\EMPRESA_IPVG.pdb

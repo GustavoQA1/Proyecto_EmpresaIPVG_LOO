@@ -1,0 +1,10 @@
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\GUARDAR_IPVG\bin\Debug\GUARDAR_IPVG.exe.config
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\GUARDAR_IPVG\bin\Debug\GUARDAR_IPVG.exe
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\GUARDAR_IPVG\bin\Debug\GUARDAR_IPVG.pdb
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\GUARDAR_IPVG\bin\Debug\EMPRESA_IPVG.dll
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\GUARDAR_IPVG\bin\Debug\EMPRESA_IPVG.pdb
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\GUARDAR_IPVG\obj\Debug\GUARDAR_IPVG.csproj.AssemblyReference.cache
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\GUARDAR_IPVG\obj\Debug\GUARDAR_IPVG.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\GUARDAR_IPVG\obj\Debug\GUARDAR_IPVG.csproj.CopyComplete
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\GUARDAR_IPVG\obj\Debug\GUARDAR_IPVG.exe
+C:\Users\GUSTAVO\Source\Repos\EMPRESA_IPVG\GUARDAR_IPVG\obj\Debug\GUARDAR_IPVG.pdb
